@@ -1,7 +1,7 @@
-### 👋 Hello World, I'm Pedro Emanoel
+### 👋 Hello World
 
 # 💫 About Me:
-👨🏽‍💻 In love for Front-End, BackEnd and UI Designer.<br>💻 I create various systems for fun<br>🎁 I am currently doing scientific initiation in Environmental Chemistry<br>😎 Curiosity: Obsessed with basketball, cars and books
+Me chamo Pedro Emanoel Alves Dias, tenho 18 anos e sou natural d Bahia. Concluí o ensino médio no SESI, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na UCSAL. Sou apaixonada por tecnologia e busco compartilhar os meus conhecimentos e aprendizados aqui no GitHub.
 
 
 ## 🌐 Socials:
